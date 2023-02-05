@@ -9,3 +9,14 @@ C:\Users\CCBB\source\repos\Examen1\Examen1\obj\Debug\Examen1.csproj.GenerateReso
 C:\Users\CCBB\source\repos\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
 C:\Users\CCBB\source\repos\Examen1\Examen1\obj\Debug\Examen1.exe
 C:\Users\CCBB\source\repos\Examen1\Examen1\obj\Debug\Examen1.pdb
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\bin\Debug\Examen1.exe
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\bin\Debug\Examen1.pdb
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.Form1.resources
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.Properties.Resources.resources
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.csproj.GenerateResource.cache
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.exe
+C:\Users\lerne\Source\Repos\Examen2\Examen1\Examen1\obj\Debug\Examen1.pdb
